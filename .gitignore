@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env/
+
+# IDE/editor settings
+.vscode/
+
+# Ignore all files in app/data
+app/data/*
+
+# But don't ignore this placeholder file
+!app/data/.gitkeep
